@@ -15,5 +15,5 @@
     "autoload": {
         "psr-4": {"saidbakr\\FoxCaptcha\\": "src/"}
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "stable"
 }
