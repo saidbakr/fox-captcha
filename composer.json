@@ -1,0 +1,19 @@
+{
+    "name": "saidbakr/fox-captcha",
+    "description": "Simple PHP Captcha image solution with reloading image property",
+    "type": "library",
+    "require": {
+        "php": ">5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Said Bakr",
+            "email": "said_fox@yahoo.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"saidbakr\\FoxCaptcha\\": "src/"}
+    },
+    "minimum-stability": "dev"
+}
