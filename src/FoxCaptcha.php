@@ -12,6 +12,7 @@ class FoxCaptcha{
 	var $img_width;
 	var $img_height;
 	var $code_length;
+	var $font_file;
 	var $fg;
 	var $bg;
 	var $code;

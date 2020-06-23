@@ -1,6 +1,7 @@
 <?php
 namespace saidbakr\FoxCaptcha;
-use FoxCaptcha;
+//require_once __DIR__ . '/../src/FoxCaptcha.php';
+use saidbakr\FoxCaptcha\FoxCaptcha;
 session_start();
 if (empty($_SESSION['FoxCaptchaFilePath'])) die('Fox_Captcha Error: missing session for image.');
 include($_SESSION['FoxCaptchaFilePath']);

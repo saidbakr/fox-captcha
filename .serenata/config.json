@@ -1,0 +1,11 @@
+{
+    "uris": [
+        "file:///home/saidbakr/Desktop/OldHome/www/Default/vendor/saidbakr/FoxCaptcha"
+    ],
+    "indexDatabaseUri": "file:///home/saidbakr/.cache/php-ide-serenata/index-4faf8b4a05244a93a5585b26c407df44.sqlite",
+    "phpVersion": 7.3,
+    "excludedPathExpressions": [],
+    "fileExtensions": [
+        "php"
+    ]
+}
